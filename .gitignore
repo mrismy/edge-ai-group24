@@ -1,0 +1,27 @@
+# Environment & Secrets
+.env
+secrets.py
+mosquitto/config/passwd
+
+# Docker volumes
+influxdb-data/
+grafana-data/
+node-red-data/
+mosquitto/data/
+mosquitto/log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+buffer_*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
