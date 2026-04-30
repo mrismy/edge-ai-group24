@@ -7,10 +7,10 @@
 
 | Student ID | Name | Role |
 |-----------|------|------|
-| E/20/009 | Member 1 | Edge AI & Simulation |
-| E/20/199 | Member 2 | Node-RED & RUL Estimation |
-| E/20/339 | Member 3 | Infrastructure & Security |
-| E/20/371 | Member 4 | Documentation & Dashboards |
+| E/20/009 | Ahemad I.I | Edge AI & Simulation |
+| E/20/199 | Ketharagan P | Node-RED & RUL Estimation |
+| E/20/339 | Rismy A.M | Infrastructure & Security |
+| E/20/371 | Rishopika S | Documentation & Dashboards |
 
 ---
 
